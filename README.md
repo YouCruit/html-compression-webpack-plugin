@@ -3,6 +3,7 @@
 ## Usage
 
 Credits to @sokra for the code from compression-webpack-plugin (https://github.com/webpack/compression-webpack-plugin)
+Link to NPM: https://www.npmjs.com/package/html-compression-webpack-plugin
 
 ``` javascript
 var HTMLCompressionPlugin = require("html-compression-webpack-plugin");
