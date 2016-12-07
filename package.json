@@ -1,0 +1,24 @@
+{
+  "name": "html-compression-webpack-plugin",
+  "version": "0.1.0",
+  "author": "Tobias Koppers @sokra & Tom De Backer @TomDeBacker",
+  "description": "Prepare compressed versions of assets to serve them with Content-Encoding.",
+  "dependencies": {
+    "async": "0.2.x",
+    "webpack-sources": "^0.1.0"
+  },
+  "optionalDependencies": {
+    "node-zopfli": "^2.0.0"
+  },
+  "homepage": "https://github.com/TomDeBacker/html-compression-webpack-plugin",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/TomDeBacker/html-compression-webpack-plugin.git"
+  },
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "http://www.opensource.org/licenses/mit-license.php"
+    }
+  ]
+}
