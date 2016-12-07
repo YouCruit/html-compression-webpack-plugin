@@ -2,6 +2,8 @@
 
 ## Usage
 
+Credits to @sokra for the code from compression-webpack-plugin (https://github.com/webpack/compression-webpack-plugin)
+
 ``` javascript
 var HTMLCompressionPlugin = require("html-compression-webpack-plugin");
 module.exports = {
